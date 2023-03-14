@@ -1,0 +1,8 @@
+1. start-napin ääni
+2. taustamusiikki
+3. puhekuplan ilmestymisääni
+3. puhekuplien mölinä
+4. ohjattavan hahmon ääni? ehkä?
+5. hissin ääni
+6. oven avaus- ja sulkeutumisääni
+7. jos menee tietokoneen luokse, niin mitä siitä tapahtuu? (pitäskö pistää korpun lukemisääni vaikka amiga 500:sta? xD)
